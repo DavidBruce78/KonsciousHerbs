@@ -1,0 +1,95 @@
+body {
+	margin:0 auto;
+	background-color: black;
+	font-family: 'Domine', serif;
+	color: white;
+}
+.wrapper {
+ font-family: 'Domine', serif;
+}
+.konscienceherbsheader{
+	margin: 0 auto;
+	box-shadow: 1px 1px 20px yellow;
+}
+.nav {
+	text-align: center;
+	color:#023000;
+   	background-color: black;
+}
+.nav:hover {
+	color:#402b15;
+}
+.aboutsection {
+	margin-top: 10px;
+	text-align: justify;
+	font-size: 27px
+}
+ .span1 {
+	color:#023000;
+}
+ .span2 {
+	color:#402b15;
+}
+.aboutsection p {
+	padding: 10px 10px 10px 10px;
+}
+.herbssection{
+	margin-top: 30px;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
+.herbssection p {
+	padding: 5px;
+}
+.form-group{
+
+}
+footer {
+	height: 50px;
+	text-align:center;
+	color:#402b15;
+	
+	box-shadow: 1px 1px 20px #719f08;
+
+}
+/*Testimonial.php CSS Styling */
+
+.useravatar {
+	margin: 0 auto;
+	height: 75px;
+	width: 75px;
+}
+.useravatar {
+	border-radius: 50%;
+}
+.herbslogo {
+    border-radius: 80%
+	height: 200px;
+	width: 300px;
+	margin: 0 auto;
+}
+
+/* Contact Page CSS*/
+
+.contactform {
+	margin-left: 10px;
+}
+/* Index.php CSS Styling */
+
+.row h2 {
+	text-align: center;
+}
+.herbsrow{
+	padding: 10px 20px 0px 10px;
+}
+
+.bookcover {
+	width:100%;
+	height:450px;
+	margin: 0 auto;
+	box-shadow: 1px 1px 15px #023000; 
+}
+
+
+
+
